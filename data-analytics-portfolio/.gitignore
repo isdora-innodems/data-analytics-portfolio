@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Power BI temporary/backup files
+*.pbix~
+*.pbit~
+
+# Keep raw data out of Git until the dataset licence is checked.
+# Uncomment the next line if you decide not to track raw data:
+# */data/raw/*
